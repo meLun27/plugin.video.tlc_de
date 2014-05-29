@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.tlc_de" name="TLC Videothek" version="0.0.1" provider-name="meLun27">
+    <requires>
+	<import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.pyamf" version="0.6.1"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">TLC (german television)</summary>
+	<summary lang="de">TLC Videotheke</summary>
+    <description lang="en">TLC (german television)</description>
+	<description lang="de">TLC Videotheke</description>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+	<source>http://www.tlc.de</source>
+	<website>http://viewaworld.wordpress.com</website>
+	<source>http://viewaworld.wordpress.com</source>
+	<email>melun27 at freenet dot de</email>
+	<website>http://www.tlc.de</website>
+  </extension>
+</addon>
