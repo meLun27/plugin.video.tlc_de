@@ -15,8 +15,8 @@
 	<description lang="de">TLC Videotheke</description>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
 	<source>http://www.tlc.de</source>
-	<website>http://viewaworld.wordpress.com</website>
-	<source>http://viewaworld.wordpress.com</source>
+	<website>https://github.com/meLun27/plugin.video.tlc_de</website>
+	<source>https://github.com/meLun27/plugin.video.tlc_de</source>
 	<email>melun27 at freenet dot de</email>
 	<website>http://www.tlc.de</website>
   </extension>
